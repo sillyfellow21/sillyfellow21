@@ -22,7 +22,7 @@
 - [rupkotha-a-bangla-genre-classifier](https://github.com/sillyfellow21/rupkotha-a-bangla-genre-classifier) - Bangla text genre classification pipeline
 - [gnn-fraud-detection](https://github.com/sillyfellow21/gnn-fraud-detection) - Graph ML approach for fraud detection
 - [causal-uplift-churn-prevention](https://github.com/sillyfellow21/causal-uplift-churn-prevention) - Causal uplift modeling for churn intervention
-- [KrishiBondhu-AI](https://github.com/sillyfellow21/KrishiBondhu-AI) - AI assistant concept for agricultural decision support
+- [Knrishubondhu-Ai-Companion](https://github.com/sillyfellow21/Knrishubondhu-Ai-Companion) - Dart-based companion app for agricultural assistant workflows
 
 ## 💻 Tech Stack
 <p>
