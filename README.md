@@ -47,12 +47,22 @@
 
 ## 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sillyfellow21&theme=algolia&no-frame=true&no-bg=true&margin-w=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sillyfellow21&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sillyfellow21&theme=tokyonight&utcOffset=6" />
 </p>
 
 ## 🔝 Top Contributed Repositories
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sillyfellow21&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sillyfellow21&theme=tokyo-night&hide_border=true" />
+</p>
+
+## 📊 Repo Insights
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sillyfellow21&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sillyfellow21&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sillyfellow21&theme=tokyonight" />
 </p>
 
 <p align="center">
