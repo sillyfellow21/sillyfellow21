@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arjun Saha 👋</h1>
-<h3 align="center">AI + Full-Stack Developer | Building practical ML systems</h3>
+<h3 align="center">Applied AI/ML Engineer | Building practical RAG, NLP, and decision-intelligence systems</h3>
 
 <p align="center">
   <a href="https://github.com/sillyfellow21">
@@ -9,23 +9,27 @@
 </p>
 
 ## 💫 About Me
+- 🎯 Role focus: **Applied AI/ML Engineer (entry-level)**
 - 🔭 Currently building: **Medical-RAG-Chatbot**, **AuditRAG-Finance**
-- 🧠 Active in: **RAG apps**, **causal ML**, **fraud detection (GNN)**, **NLP for Bangla**
-- 🌾 Built projects like: **KrishiBondhu-AI** (agri assistant), **Ai-Krishi**
-- 💻 I work across: **Python, TypeScript, Dart, PHP, Jupyter Notebook**
-- 📈 Recent momentum: **141 contributions in the last year**
+- 🧠 Core areas: **RAG systems**, **NLP for Bangla**, **fraud detection (GNN)**, **causal ML**
+- 🌍 Problem domains: **healthcare**, **finance**, **agriculture**
+- ⚙️ Workflow: from **research idea** to **working prototype**
+- 🤝 Open to: **AI/ML internships and collaboration opportunities**
 
 ## 📌 Featured Repositories
-- [Medical-RAG-Chatbot](https://github.com/sillyfellow21/Medical-RAG-Chatbot) - Healthcare-focused RAG chatbot
-- [AuditRAG-Finance](https://github.com/sillyfellow21/AuditRAG-Finance) - Finance auditing with RAG
-- [rupkotha-a-bangla-genre-classifier](https://github.com/sillyfellow21/rupkotha-a-bangla-genre-classifier) - Bangla genre classification
-- [gnn-fraud-detection](https://github.com/sillyfellow21/gnn-fraud-detection) - Graph-based fraud detection
-- [causal-uplift-churn-prevention](https://github.com/sillyfellow21/causal-uplift-churn-prevention) - Causal inference for churn prevention
-- [KrishiBondhu-AI](https://github.com/sillyfellow21/KrishiBondhu-AI) - Smart agricultural assistant
+- [Medical-RAG-Chatbot](https://github.com/sillyfellow21/Medical-RAG-Chatbot) - Retrieval-augmented assistant for healthcare use cases
+- [AuditRAG-Finance](https://github.com/sillyfellow21/AuditRAG-Finance) - Finance-focused RAG workflow for audit support
+- [rupkotha-a-bangla-genre-classifier](https://github.com/sillyfellow21/rupkotha-a-bangla-genre-classifier) - Bangla text genre classification pipeline
+- [gnn-fraud-detection](https://github.com/sillyfellow21/gnn-fraud-detection) - Graph ML approach for fraud detection
+- [causal-uplift-churn-prevention](https://github.com/sillyfellow21/causal-uplift-churn-prevention) - Causal uplift modeling for churn intervention
+- [KrishiBondhu-AI](https://github.com/sillyfellow21/KrishiBondhu-AI) - AI assistant concept for agricultural decision support
 
 ## 💻 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
